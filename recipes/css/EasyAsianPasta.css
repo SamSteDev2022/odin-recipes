@@ -1,0 +1,27 @@
+body
+{
+    font-family:Arial, Helvetica, sans-serif;
+    
+    background-color: #F9F9F9;
+    background-image: url(images/bg3.png);
+    background-position: center top;
+    background-repeat: repeat;
+    text-shadow: #FFFFFF 0px 1px 0px;
+        
+    
+}
+
+.title
+{
+    font-size: 12px;
+}
+
+.subtitle
+{
+    font-size: 420px;
+}
+
+.lingredients
+{
+    font-size: 50px;
+}
